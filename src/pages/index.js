@@ -49,6 +49,8 @@ function Index() {
       <br />
       <h2>The date according to Node.js (TypeScript) is:</h2>
       <p>{date ? date : 'Loading date...'}</p>
+    
+      <a href="https://example.com" target="_blank">Example link to external site</a>
     </main>
   );
 }
